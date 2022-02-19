@@ -97,6 +97,13 @@
 }
 /* style={{height: '40vh', width: '20vw'}} */
 
+.favorites-genres{
+  padding: 3rem;
+}
+
+.favorites-table{
+  padding: 3rem;
+}
 
 @media screen and (max-width:400px) {
   .banner-card{
